@@ -1,2 +1,2 @@
 # data-analyst-test-task
-Data analyst test task for shinsale
+Test task for data analyst shinsale
